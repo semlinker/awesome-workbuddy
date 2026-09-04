@@ -54,6 +54,7 @@
 - [打工人必备！教你用WorkBuddy制作自己的文件审核Skill](https://mp.weixin.qq.com/s/oFjSrlTp5VlMzPwN_iPOjg)
 - [微信读书Skill冲上热搜，快用WorkBuddy体验这热门 skill](https://mp.weixin.qq.com/s/SO_oMjRNx4Vj6vZZQN30eg)
 - [如何在 WorkBuddy 中使用 MCP Server？](https://developer.cloud.tencent.com/article/2698011)
+- [WorkBuddy Skill Atlas](https://github.com/sandbaseai/workbuddy-skill) — 可搜索 10,000 个公开 `SKILL.md`，保留 GitHub 来源与内容 SHA，并提供 WorkBuddy 适配示例、静态目录和自动更新流程。
 
 ## 场景实践
 
