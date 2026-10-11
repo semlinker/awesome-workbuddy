@@ -54,6 +54,7 @@
 - [打工人必备！教你用WorkBuddy制作自己的文件审核Skill](https://mp.weixin.qq.com/s/oFjSrlTp5VlMzPwN_iPOjg)
 - [微信读书Skill冲上热搜，快用WorkBuddy体验这热门 skill](https://mp.weixin.qq.com/s/SO_oMjRNx4Vj6vZZQN30eg)
 - [如何在 WorkBuddy 中使用 MCP Server？](https://developer.cloud.tencent.com/article/2698011)
+- [BonChanxxx/mcd-archive](https://github.com/BonChanxxx/mcd-archive) - 麦麦档案：基于麦当劳官方 MCP 的开源 WorkBuddy 技能，把账号数据（门票/徽章/积分）生成可分享档案卡片。
 
 ## 场景实践
 
