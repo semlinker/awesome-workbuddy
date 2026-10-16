@@ -54,6 +54,8 @@
 - [打工人必备！教你用WorkBuddy制作自己的文件审核Skill](https://mp.weixin.qq.com/s/oFjSrlTp5VlMzPwN_iPOjg)
 - [微信读书Skill冲上热搜，快用WorkBuddy体验这热门 skill](https://mp.weixin.qq.com/s/SO_oMjRNx4Vj6vZZQN30eg)
 - [如何在 WorkBuddy 中使用 MCP Server？](https://developer.cloud.tencent.com/article/2698011)
+- [外卖优惠券 Skill（takeout-coupon）](https://github.com/moooai/takeout-coupon) — 标准 SKILL.md 格式，WorkBuddy 可直接安装；一次返回美团/饿了么/京东外卖红包与隐藏券口令，附 H5 领券页与二维码
+- [领券全家桶 Skill（obtain-coupons-all-in-one）](https://github.com/moooai/obtain-coupons-all-in-one) — 外卖、出行、电影票、快递四类生活券一站获取
 
 ## 场景实践
 
