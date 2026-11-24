@@ -54,6 +54,7 @@
 - [打工人必备！教你用WorkBuddy制作自己的文件审核Skill](https://mp.weixin.qq.com/s/oFjSrlTp5VlMzPwN_iPOjg)
 - [微信读书Skill冲上热搜，快用WorkBuddy体验这热门 skill](https://mp.weixin.qq.com/s/SO_oMjRNx4Vj6vZZQN30eg)
 - [如何在 WorkBuddy 中使用 MCP Server？](https://developer.cloud.tencent.com/article/2698011)
+- [publicrecords-skills](https://github.com/GeminiGeorge22/publicrecords-skills) - 适用于 Claude Code、Codex、Copilot、Cursor、Gemini CLI 的 Agent Skills + MCP 插件，覆盖 18 个公共数据 Apify Actor：美国联邦合同与资助、欧盟/英国招标、市议会会议、招聘职位、公司社交账号、Google 广告、Etsy、体育赔率、Spotify.
 
 ## 场景实践
 
